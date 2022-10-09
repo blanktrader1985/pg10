@@ -1,19 +1,17 @@
-{ 
-   "name": "pg10",
-   "theme": "syntax",
-   "version": "0.0.0",
-   "description": "ทางเข้าpg เว็บสล็อต pg",
-   "keywords": [
-     "เว็บสล็อต",
-     "สล็อต",
-     "เกมy8",
-     "ทดลองเล่นสล็อต pg"
-   ],
-   "repository": "https://github.com/blanktrader1985/pg10.git",
-   "license": "MIT",
-   "engines": {
-     "atom": ">=1.0.0 <2.0.0"
-   }
- }
-          
-        
+{
+  "name": "pg10",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "ทางเข้าpg เว็บสล็อต pg",
+  "keywords": [
+    "เว็บสล็อต",
+    "สล็อต",
+    "เกมy8",
+    "ทดลองเล่นสล็อต pg"
+  ],
+  "repository": "https://github.com/blanktrader1985/pg10.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
